@@ -12,7 +12,7 @@ public class DBHelper {
 	// 数据库用户名
 	private static final String user = "root";
 	// 连接数据库的密码
-	private static final String password = "Goodluck1234!";
+	private static final String password = "1234!";
 
 	// Step 1 Connect to MySQL.
 	public Connection getConnection() {
